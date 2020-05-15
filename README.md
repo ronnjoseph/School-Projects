@@ -1,2 +1,2 @@
 # School-Projects
-Projects done while in classes
+Files above are Projects done while in classes
