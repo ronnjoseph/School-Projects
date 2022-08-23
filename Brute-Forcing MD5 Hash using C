@@ -1,5 +1,6 @@
 //Ronn Joseph, Akilnath Bodipudi 
 //File takes around 7 minutes to find plaintext
+//4 Byte Length MD5Hash
 
 #include <stdio.h>
 #include <stdlib.h>
